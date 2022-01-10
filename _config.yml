@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: gal资源部
+subtitle: GalResourcesClub
+description: 欢迎来到gal资源部~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "https://leopardpan.cn"
+avatarDesc: galgame / animation
+url: "https://GalResourcesClub.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -27,7 +27,17 @@ social:
     # twitter: 
     mail: leopardpan@icloud.com
 
+# Gitalk
 
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 435a5d2d8f65641351b0                            #生成的clientID
+  clientSecret: bea1fc274d29b5e812c2a99556cc8076da43ba87    #生成的clientSecret
+  repo: GalResourcesClub.github.io    #仓库名称
+  owner: GalResourcesClub    #github用户名
+  admin: GalResourcesClub
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:

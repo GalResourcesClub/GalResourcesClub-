@@ -8,11 +8,12 @@ galgame游戏资源分享※闲聊
 <h2> 频道绑定群组 </h2>  
 
 点击链接加入QQ群聊【縁ちゃんの空】：https://jq.qq.com/?_wv=1027&k=a1Kb2ydq
+
 电报群链接https://t.me/+ju3o06lavjU4ZTFl
 
 
 
-< h3 > 资源部基准 </ h3 > 
+< h3 > 资源部基准 </ h3 >
 
 1.所有资源禁止在线解压 
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-标题：关于我Galgame资源部
+title: 关于我Galgame资源部
 ---
+
 
 galgame游戏资源分享※闲聊
 

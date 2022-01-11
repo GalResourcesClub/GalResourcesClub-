@@ -4,33 +4,33 @@ title: 关于我Galgame资源部
 ---
 
 
-galgame游戏资源分享※闲聊
+> galgame游戏资源分享※闲聊
 
 # Galgame资源部频道
 ## 频道准则
-1.所有资源禁止在线解压 
+ 1. 所有资源禁止在线解压 
 
-2.有什么不懂的可以在提问
+ 2 .有什么不懂的可以在提问
 
-3.百度云的下载目录是
+ 3. 百度云的下载目录是
 
-BaiduNetdisk 
+    BaiduNetdisk 
 
-4.百度云资源链接前缀是
+ 4. 百度云资源链接前缀是
 
-https://pan.baidu.com
+    https://pan.baidu.com
 
- 5.磁力链接前缀是
+ 5. 磁力链接前缀是
 
-magnet:?xt=urn:btih: 
+    magnet:?xt=urn:btih: 
 
-6.QQ文件储存目录是
+ 6. QQ文件储存目录是
 
-Android/data/com.tencent.mobileqq/Tencent/QQfile_recv
+    Android/data/com.tencent.mobileqq/Tencent/QQfile_recv
 
- 7.频道禁止刷屏宣群发广告 
+ 7. 频道禁止刷屏宣群发广告 
 
-8.频道鱼塘仅用于聊天，资源方面移步下方圣教堂
+8. 频道鱼塘仅用于聊天，资源方面移步下方圣教堂
 
 子频道功能齐全，所有分区一目了然
 
